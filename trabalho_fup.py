@@ -1,7 +1,3 @@
-''''
-Alanis Oliveira Santos
-Matrícula: 514114
-'''
 import turtle
 import math
 import random
