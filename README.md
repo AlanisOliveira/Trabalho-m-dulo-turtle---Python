@@ -5,15 +5,14 @@ Tartaruga na Arena com Python
 
 é um jogo simples e interativo onde o jogador controla uma tartaruga em uma arena. O objetivo é navegar pela arena, coletando 'comida' representada por círculos vermelhos, enquanto evita 'veneno' representado por círculos verdes. À medida que o jogador coleta comida, ganha pontos, mas entrar em contato com o veneno resulta na perda de vidas. O jogo termina quando o jogador perde todas as suas vidas. A dinâmica do jogo é controlada através do teclado, permitindo ao jogador mover a tartaruga para a esquerda, direita e ajustar sua velocidade.
 # Tecnologias Utilizadas
-Python: Linguagem de programação usada para desenvolver o jogo.
-Turtle Graphics: Biblioteca utilizada para criar a interface gráfica do jogo.
-Instalação
-
+- Python: Linguagem de programação usada para desenvolver o jogo.
+- Turtle Graphics: Biblioteca utilizada para criar a interface gráfica do jogo.
+  
 # Instruções passo a passo sobre como configurar o ambiente de desenvolvimento local.
 
-Clone o repositório: git clone [[URL do Repositório].](https://github.com/AlanisOliveira/Trabalho-m-dulo-turtle---Python.git)
-Instale Python, se ainda não estiver instalado.
-Execução
+- Clone o repositório: git clone https://github.com/AlanisOliveira/Trabalho-m-dulo-turtle---Python.git
+- Instale Python, se ainda não estiver instalado.
+
 # Instruções para executar o jogo.
 
 Navegue até a pasta do projeto.
